@@ -1,1 +1,2 @@
 # Protein-Structure-Prediction
+Here, we will implement machine learning models to predict protein secondary structure or folding using the R programming language. We will utilize the caret package for modeling, which provides a unified interface for various machine learning algorithms. The goal is to create a predictive model that can classify protein sequences into their respective secondary structure categories.
